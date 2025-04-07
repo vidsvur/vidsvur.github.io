@@ -66,7 +66,7 @@
       "startDate": "2019-05",
       "endDate": "2019-10",
       "summary": "As a part of my internship at Dümmen Orange, I looked into the genome annotations of 'Old Blush' (Raymond et al., Saint-Oyant et al.) for resistance genes. Based on their descriptions, BLAST, comparison to other Rosaceae species, as well as selection pressure statistics (nucleotide diversity, ka/ks, fixation index, and Tajima's D); it was possible to narrow down potential R genes to a few genes that may have a function in conferring resistance to pathogens. 
-This project was done using R. ",
+This project was done using R."
       "highlights": ["Disease resistance genes, roses, plant breeding, R"]
     },
   ],
