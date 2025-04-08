@@ -65,23 +65,23 @@
       "url": "",
       "startDate": "2019-05",
       "endDate": "2019-10",
-      "summary": "As a part of my internship at Dümmen Orange, I looked into the genome annotations of 'Old Blush' (Raymond et al., Saint-Oyant et al.) for resistance genes. Based on their descriptions, BLAST, comparison to other Rosaceae species, as well as selection pressure statistics (nucleotide diversity, ka/ks, fixation index, and Tajima's D); it was possible to narrow down potential R genes to a few genes that may have a function in conferring resistance to pathogens. This project was done using R."
+      "summary": "As a part of my internship at Dümmen Orange, I looked into the genome annotations of 'Old Blush' (Raymond et al., Saint-Oyant et al.) for resistance genes. Based on their descriptions, BLAST, comparison to other Rosaceae species, as well as selection pressure statistics (nucleotide diversity, ka/ks, fixation index, and Tajima's D); it was possible to narrow down potential R genes to a few genes that may have a function in conferring resistance to pathogens. This project was done using R.",
       "highlights": ["Disease resistance genes, roses, plant breeding, R"]
-    },
+    }
   ],
   "volunteer": [
     {
       "organization": "EEB Graduate Student Association at UConn",
       "startDate": "2021-09-01",
       "endDate": "2023-09-01",
-      "summary": "Handled organization funds for the EEB GSA",
+      "summary": "Handled organization funds for the EEB GSA"
     },
      {
       "organization": "Indian Student Association- WUR",
       "startDate": "2018-09-01",
       "endDate": "2019-09-01",
-      "summary": "Handled organization funds for ISA at WUR, helped organize, raise funds, and execute events to increase multicultural interactions at Wageningen",
-    },
+      "summary": "Handled organization funds for ISA at WUR, helped organize, raise funds, and execute events to increase multicultural interactions at Wageningen"
+    }
   ],
   "education": [
     {
@@ -90,7 +90,7 @@
       "area": "Ecology and Evolutionary Biology",
       "studyType": "PhD",
       "startDate": "2021-01-21",
-      "endDate": "2025-08-01",
+      "endDate": "2025-08-01"
     },
     {
       "institution": "Wageningen Univeristy and Research, The Netherlands",
@@ -98,7 +98,7 @@
       "area": "Plant Biotechnology",
       "studyType": "MS",
       "startDate": "2017-09-01",
-      "endDate": "2019-11-30",
+      "endDate": "2019-11-30"
     },
     {
       "institution": "Vellore Institute of Technology- Deemed to be University, India",
@@ -106,16 +106,16 @@
       "area": "Biotechnology",
       "studyType": "Bachelors",
       "startDate": "2013-09-01",
-      "endDate": "2017-05-01",
-    },
+      "endDate": "2017-05-01"
+    }
   ],
   "publications": [
         {
       "name": "Genome Assembly of a Living Fossil, the Atlantic Horseshoe Crab Limulus polyphemus, Reveals Lineage-Specific Whole-Genome Duplications, Transposable Element-Based Centromeres, and a ZW Sex Chromosome System",
       "publisher": "Oxford University Press",
       "releaseDate": "2025-02",
-      "url": "https://academic.oup.com/mbe/article/42/2/msaf021/8002005",
-    }
+      "url": "https://academic.oup.com/mbe/article/42/2/msaf021/8002005"
+        },
     {
       "name": "Crossroads of assembling a moss genome: navigating contaminants and horizontal gene transfer in the moss Physcomitrellopsis africana",
       "publisher": "Oxford University Press",
@@ -134,40 +134,40 @@
       "title": "Ronald Bamford Grant",
       "date": "2024",
       "awarder": "University of Connecticut",
-      "summary": "$1500 towards participating in the North American Forest Genetics Society conference in July of 2024.'"
+      "summary": "$1500 towards participating in the North American Forest Genetics Society conference in July of 2024.",
     },
      {
       "title": "Rednalis Award",
       "date": "2024",
       "awarder": "University of Connecticut",
-      "summary": "$6000 towards assessing transcriptomes across hemlock species to assess the molecular mechanisms underlying genetic defense to stressors."
+      "summary": "$6000 towards assessing transcriptomes across hemlock species to assess the molecular mechanisms underlying genetic defense to stressors.",
     },
     {
       "title": "Graduate Student Research Award",
       "date": "2024",
       "awarder": "New England Botanical Society",
-      "summary": "$1500 towards assessing transcriptomes across hemlock species to assess the molecular mechanisms underlying genetic defense to stressors."
+      "summary": "$1500 towards assessing transcriptomes across hemlock species to assess the molecular mechanisms underlying genetic defense to stressors.",
     },
    {
       "title": "Sargant Award",
       "date": "2024",
       "awarder": "Arnold Arboretum- Harvard University",
-      "summary": "$8500 towards generating the first reference genome of _Tsuga canadensis_ and assessing transcriptomes across hemlock species to assess the molecular mechanisms underlying genetic defense to stressors."
+      "summary": "$8500 towards generating the first reference genome of _Tsuga canadensis_ and assessing transcriptomes across hemlock species to assess the molecular mechanisms underlying genetic defense to stressors.",
     },
    {
       "Year": "2023",
       "Cumulative awarded": "$2200",
-      "summary": "Grants awarded by the Ronald Bamford Grant and the University of Connecticut for conference travel"
+      "summary": "Grants awarded by the Ronald Bamford Grant and the University of Connecticut for conference travel",
     },
    {
       "Year": "2022",
       "Cumulative awarded": "$1500",
-      "summary": "Grants awarded by the Ronald Bamford Grant"
+      "summary": "Grants awarded by the Ronald Bamford Grant",
     },
       {
       "Year": "2021",
       "Cumulative awarded": "$2100",
-      "summary": "Grants awarded by the Ronald Bamford Grant and the American Conifer Society"
+      "summary": "Grants awarded by the Ronald Bamford Grant and the American Conifer Society",
     }
   ]
 }
