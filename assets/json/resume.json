@@ -164,19 +164,16 @@
             "summary": "$8500 towards generating the first reference genome of _Tsuga canadensis_ and assessing transcriptomes across hemlock species to assess the molecular mechanisms underlying genetic defense to stressors."
         },
         {
-            "Year": "2023",
-            "Cumulative awarded": "$2200",
-            "summary": "Grants awarded by the Ronald Bamford Grant and the University of Connecticut for conference travel"
+            "date": "2023",
+            "summary": "$2200 in total in grants awarded by the Ronald Bamford Grant and the University of Connecticut for conference travel"
         },
         {
-            "Year": "2022",
-            "Cumulative awarded": "$1500",
-            "summary": "Grants awarded by the Ronald Bamford Grant"
+            "date": "2022",
+            "summary": "$1500 in grants awarded by the Ronald Bamford Grant"
         },
         {
-            "Year": "2021",
-            "Cumulative awarded": "$2100",
-            "summary": "Grants awarded by the Ronald Bamford Grant and the American Conifer Society"
+            "date": "2021",
+            "summary": "$2100 in grants awarded by the Ronald Bamford Grant and the American Conifer Society"
         }
     ]
 }
