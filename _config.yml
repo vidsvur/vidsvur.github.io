@@ -193,8 +193,12 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - _projects/
-  - _teaching/
+  - _pages/projects.md
+  - _pages/dropdown.md
+  - _pages/teaching.md
+  - _pages/profiles.md
+  - _pages/books.md
+  
   
 keep_files:
   - CNAME
