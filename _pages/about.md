@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am nearing the end of my PhD in Ecology and Evolutionary Biology at the University of Connecticut. I will soon be defending my dissertation! My research interests include conservation genomics, population genetics, pangenomics, genome annotation and assembly, polyploidy, and host-pest/parasite interactions. I currently have two first-author papers published (see [my publications](_pages/publications.md)), and two papers submitted.
+I am nearing the end of my PhD in Ecology and Evolutionary Biology at the University of Connecticut- I'm defending in July of 2025! My research interests include conservation genomics, population genetics, pangenomics, genome annotation and assembly, polyploidy, and host-pest/parasite interactions. I currently have two first-author papers published (see [my publications](_pages/publications.md)), and two papers submitted.
 
 Before I entered the United States to pursue my PhD, I spent time at Wageningen University and Research in the Netherlands. It was there that I completed my Master's of Science in Plant Biotechnology, with a focus on molecular plant breeding and phytopathology. I took up an opportunity to intern at the Lab of Nematology, where I was introduced to bioinformatics. I assembled the genome of the beet cyst nematode _Heterodera schachtii_ during that time. I also interned at Dümmen Orange, where I researched resistance genes (R) genes in rose cultivars.
 
