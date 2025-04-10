@@ -196,6 +196,7 @@ exclude:
   - _pages/teaching.md
   - _pages/profiles.md
   - _pages/books.md
+  - _pages/blog.md
   - _pages/repositories.md
   - _news/announcement_2.md
   - _news/announcement_3.md
