@@ -391,7 +391,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-immediate-premeiotic-transcriptomic-effects-following-non-chemically-induced-whole-genome-duplication-in-the-moss-funaria-hygrometrica-has-been-accepted-as-a-letter-to-new-phytologist-this-work-highlights-the-changes-in-methylation-repeats-and-gene-expression-after-inducing-whole-genome-duplication-in-a-new-system-funaria-hygrometrica",
+            },},{id: "news-our-paper-immediate-premeiotic-transcriptomic-effects-following-non-chemically-induced-whole-genome-duplication-in-the-moss-funaria-hygrometrica-has-been-accepted-as-a-letter-to-new-phytologist-this-work-highlights-the-changes-in-methylation-repeats-and-gene-expression-after-inducing-whole-genome-duplication-in-a-new-system-funaria-hygrometrica-this-was-co-authored-by-nikisha-patel-peter-szövenyi-jill-wegrzyn-and-bernard-goffinet",
           title: 'Our paper, “Immediate premeiotic transcriptomic effects following non-chemically induced whole genome duplication in...',
           description: "",
           section: "News",},{id: "projects-project-1",
