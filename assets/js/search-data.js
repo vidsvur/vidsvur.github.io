@@ -391,7 +391,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-immediate-premeiotic-transcriptomic-effects-following-non-chemically-induced-whole-genome-duplication-in-the-moss-funaria-hygrometrica-has-been-accepted-as-a-letter-to-new-phytologist-this-work-highlights-the-changes-in-methylation-repeats-and-gene-expression-after-inducing-whole-genome-duplication-in-a-new-system-funaria-hygrometrica-this-was-co-authored-by-nikisha-patel-peter-szövenyi-jill-wegrzyn-and-bernard-goffinet",
+            },},{id: "news-i-was-invited-to-present-my-updates-on-my-work-with-the-eastern-hemlocks-at-harvard-forest-for-their-spring-seminar-series-updates-included-metrics-on-our-chromosome-scale-eastern-hemlock-genome-16-5gbp-and-the-introduced-pest-the-hemlock-woolly-adelgid-i-also-presented-updates-on-our-work-comparing-transcriptomic-and-metabolomic-profiles-of-putative-susceptible-and-putative-lingering-i-e-the-bulletproof-stand-individuals-from-samples-taken-monthly-for-a-year-thank-you-so-much-for-the-opportunity-to-meet-with-researchers-at-harvard-forest-and-to-see-the-hemlock-woodlot-area-where-hemlock-trees-are-studied-from-10-000-years-ago-to-the-present-was-very-inspiring",
+          title: 'I was invited to present my updates on my work with the eastern...',
+          description: "",
+          section: "News",},{id: "news-our-paper-immediate-premeiotic-transcriptomic-effects-following-non-chemically-induced-whole-genome-duplication-in-the-moss-funaria-hygrometrica-has-been-accepted-as-a-letter-to-new-phytologist-this-work-highlights-the-changes-in-methylation-repeats-and-gene-expression-after-inducing-whole-genome-duplication-in-a-new-system-funaria-hygrometrica-this-was-co-authored-by-nikisha-patel-peter-szövenyi-jill-wegrzyn-and-bernard-goffinet",
           title: 'Our paper, “Immediate premeiotic transcriptomic effects following non-chemically induced whole genome duplication in...',
           description: "",
           section: "News",},{id: "projects-project-1",
