@@ -398,16 +398,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-our-paper-immediate-premeiotic-transcriptomic-effects-following-non-chemically-induced-whole-genome-duplication-in-the-moss-funaria-hygrometrica-has-been-accepted-as-a-letter-to-new-phytologist-this-work-highlights-the-changes-in-methylation-repeats-and-gene-expression-after-inducing-whole-genome-duplication-in-a-new-system-funaria-hygrometrica",
+          title: 'Our paper, “Immediate premeiotic transcriptomic effects following non-chemically induced whole genome duplication in...',
+          description: "",
+          section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-our-paper-immediate-premeiotic-transcriptomic-effects-following-non-chemically-induced-whole-genome-duplication-in-the-moss-funaria-hygrometrica-has-been-accepted-as-a-letter-to-new-phytologist-this-work-highlights-the-changes-in-methylation-repeats-and-gene-expression-after-inducing-whole-genome-duplication-in-a-new-system-funaria-hygrometrica",
-          title: 'Our paper, “Immediate premeiotic transcriptomic effects following non-chemically induced whole genome duplication in...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
