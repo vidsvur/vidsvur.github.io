@@ -391,12 +391,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-aa",
-          title: 'Aa',
+            },},{id: "news-i-was-invited-to-discuss-my-research-progress-on-conserving-the-eastern-hemlock-at-the-arnold-arboretum-of-harvard-university-today-it-marked-my-very-first-seminar-talk-and-i-am-incredibly-grateful-for-the-opportunity-to-share-it-at-my-favorite-arboretum-i-got-to-walk-around-and-get-a-tour-of-the-collections-afterwards-too-in-all-a-great-start-to-my-week-i-think-this-link-works-in-case-you-were-interested-to-watch-the-talk-https-lnkd-in-gjkda3pw",
+          title: 'I was invited to discuss my research progress on conserving the Eastern hemlock...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/AA/";
-            },},{id: "news-my-poster-won-the-best-poster-award-at-the-institute-of-systems-genomics-isg-networking-event-at-uconn",
+          section: "News",},{id: "news-my-poster-won-the-best-poster-award-at-the-institute-of-systems-genomics-isg-networking-event-at-uconn",
           title: 'My poster won the best poster award at the Institute of Systems Genomics...',
           description: "",
           section: "News",},{id: "news-i-was-invited-to-present-my-updates-on-my-work-with-the-eastern-hemlocks-at-harvard-forest-for-their-spring-seminar-series-updates-included-metrics-on-our-chromosome-scale-eastern-hemlock-genome-16-5gbp-and-the-introduced-pest-the-hemlock-woolly-adelgid-i-also-presented-updates-on-our-work-comparing-transcriptomic-and-metabolomic-profiles-of-putative-susceptible-and-putative-lingering-i-e-the-bulletproof-stand-individuals-from-samples-taken-monthly-for-a-year-thank-you-so-much-for-the-opportunity-to-meet-with-researchers-at-harvard-forest-and-to-see-the-hemlock-woodlot-area-where-hemlock-trees-are-studied-from-10-000-years-ago-to-the-present-was-very-inspiring",
