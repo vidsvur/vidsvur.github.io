@@ -391,6 +391,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "news-isg",
+          title: 'Isg',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/ISG/";
             },},{id: "news-i-was-invited-to-present-my-updates-on-my-work-with-the-eastern-hemlocks-at-harvard-forest-for-their-spring-seminar-series-updates-included-metrics-on-our-chromosome-scale-eastern-hemlock-genome-16-5gbp-and-the-introduced-pest-the-hemlock-woolly-adelgid-i-also-presented-updates-on-our-work-comparing-transcriptomic-and-metabolomic-profiles-of-putative-susceptible-and-putative-lingering-i-e-the-bulletproof-stand-individuals-from-samples-taken-monthly-for-a-year-thank-you-so-much-for-the-opportunity-to-meet-with-researchers-at-harvard-forest-and-to-see-the-hemlock-woodlot-area-where-hemlock-trees-are-studied-from-10-000-years-ago-to-the-present-was-very-inspiring",
           title: 'I was invited to present my updates on my work with the eastern...',
           description: "",
