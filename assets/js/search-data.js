@@ -391,7 +391,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-was-invited-to-discuss-my-research-progress-on-conserving-the-eastern-hemlock-at-the-arnold-arboretum-of-harvard-university-today-it-marked-my-very-first-seminar-talk-and-i-am-incredibly-grateful-for-the-opportunity-to-share-it-at-my-favorite-arboretum-i-got-to-walk-around-and-get-a-tour-of-the-collections-afterwards-too-in-all-a-great-start-to-my-week-i-think-this-link-works-in-case-you-were-interested-to-watch-the-talk-https-lnkd-in-gjkda3pw",
+            },},{id: "news-i-was-invited-to-discuss-my-research-progress-on-conserving-the-eastern-hemlock-at-the-arnold-arboretum-of-harvard-university-today-it-marked-my-very-first-seminar-talk-and-i-am-incredibly-grateful-for-the-opportunity-to-share-it-at-my-favorite-arboretum-i-got-to-walk-around-and-get-a-tour-of-the-collections-afterwards-too-in-all-a-great-start-to-my-week-the-talk-is-at-this-link",
           title: 'I was invited to discuss my research progress on conserving the Eastern hemlock...',
           description: "",
           section: "News",},{id: "news-my-poster-won-the-best-poster-award-at-the-institute-of-systems-genomics-isg-networking-event-at-uconn",
