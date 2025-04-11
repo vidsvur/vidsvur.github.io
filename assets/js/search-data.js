@@ -391,6 +391,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "news-aa",
+          title: 'Aa',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/AA/";
             },},{id: "news-isg",
           title: 'Isg',
           description: "",
